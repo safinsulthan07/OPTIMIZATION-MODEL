@@ -23,3 +23,5 @@ The problem is modeled and solved using Python’s PuLP library, which provides 
 The output confirms that the solution is optimal, with exactly 30 units sent to City A, 50 to City B, and 20 to City C—matching the demand precisely. The total delivery cost comes out to ₹580, which is the minimum possible under the given constraints. This demonstrates that the LP model has effectively achieved its goal of cost minimization while fulfilling all demands.
 
 In conclusion, this project showcases how linear programming can be used to solve real-world logistics problems efficiently. Even in this simplified scenario, LP proves to be a valuable tool for decision-making in distribution and transportation. The model can easily be extended to include more complex constraints, such as limited truck availability, delivery time windows, or varying route capacities, to better reflect real-world challenges. This foundational example lays the groundwork for more advanced optimization strategies in logistics and supply chain management.
+
+<img width="1427" height="258" alt="Image" src="https://github.com/user-attachments/assets/5e549665-d998-4f65-9eb0-01ff4ef2fc9c" />
